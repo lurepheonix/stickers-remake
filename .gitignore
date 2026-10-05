@@ -1,0 +1,13 @@
+# Whitelist: ignore everything, then re-include only project files.
+*
+
+# Project source / config
+!.gitignore
+!index.ts
+!package.json
+!pnpm-lock.yaml
+!pnpm-workspace.yaml
+!tsconfig.json
+!.env.example
+!message.example.json
+!README.md
